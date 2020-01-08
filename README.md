@@ -5,13 +5,20 @@
   3. 其他收集
 ```
 
-# java基础 [java基础](/java/1.md)
+# java基础 
+[java基础](/java/java.md)
+```
+    以java常用最基础的基础知识为准。
+```
+# MQ
+[MQ](/mq/mq.md)
 
-# MQ常见 [MQ](/mq/1.md)
+# redis 
+[redis](/redis/redis.md)
 
-# REDIS常见 [redis](/redis/1.md)
+# 算法 
+[algorithm](/algorithm/algorithm.md)
 
-# 算法 [algorithm](/algorithm/1.md)
-
-# 其他 [others](/others/1.md)
+# 其他 
+[others](/others/others.md)
 
